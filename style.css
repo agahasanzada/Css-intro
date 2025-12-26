@@ -1,0 +1,42 @@
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-color: white;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background-color: rgb(239, 237, 234);
+}
+.nav-left img {
+  width: 200px;
+  height: auto;
+}
+
+.nav-right {
+  display: flex;
+  gap: 15px;
+  margin-right: 20px
+}
+
+.about {
+  display: flex;
+  gap: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.items img {
+  width: 100px;
+  height: auto;
+}
+
+.class img{
+  width: 100px;
+  height: auto;
+}
+
